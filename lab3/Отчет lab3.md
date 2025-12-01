@@ -26,7 +26,6 @@ Date of finished: 01.12.2025
 ### 1. Загрузка файлов в Cloud Storage
 
 - Был создан  Cloud Storage bucket - eboyko-lab3
-<img width="621" height="174" alt="image" src="https://github.com/user-attachments/assets/8eaba0b6-cfeb-478a-81b7-12d5018eb159" />
 
 - Были загружены изображения в созданный Cloud Storage bucket.
 <img width="621" height="174" alt="image" src="https://github.com/user-attachments/assets/0f1e488d-ac54-4683-ae85-84b065a0ed85" />
