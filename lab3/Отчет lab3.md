@@ -59,5 +59,6 @@ Date of finished: 01.12.2025
 ### 5. Завершение работы
 
 - После выполнения всех действий созданный сервис и файлы были удалены 
+<img width="825" height="617" alt="image" src="https://github.com/user-attachments/assets/0fe87b79-6e16-473f-93a1-9f6f34dab795" />
 
 
